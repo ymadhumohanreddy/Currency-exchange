@@ -63,5 +63,3 @@ The project includes fallback code for a different API, which can be used as an 
 
 ## Contributors
 **Suhas Kanwar**
-# currency-exchange
-A web-based currency converter that fetches real-time exchange rates, allows users to select currencies, and displays conversion results. Built with HTML, CSS, and JavaScript for responsive, interactive functionality.

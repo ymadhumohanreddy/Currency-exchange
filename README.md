@@ -61,5 +61,3 @@ The project uses the ExchangeRate API for fetching real-time currency exchange r
 
 The project includes fallback code for a different API, which can be used as an alternative if needed.
 
-## Contributors
-**Suhas Kanwar**
